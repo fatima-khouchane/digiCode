@@ -446,7 +446,7 @@ background-color:white;  z-index: 10;
 
 .hero2 {
   position: relative;
-  background: url("../images/bg_dev5.png") no-repeat center center;
+  background: url("../images/bg_dev.jpg") no-repeat center center;
   background-size: cover;
   min-height: 100vh;
   width: 100%;
